@@ -10,3 +10,6 @@
 #### (2) Ultimate는 유료버전, Community Edition은 무료버전이다. (필자는 Community Edition 선택)
 #### (3) 맥 인텔은 **.dmg(Intel)** 로, 맥 m1,m2는 **.dmg(Apple Silicon)** 으로 다운 (필자는 인텔이어서 .dmg(Intel)로 다운)
 <img width="1415" alt="스크린샷 2023-08-07 오후 2 22 04" src="https://github.com/cdayeon/SpringBoot/assets/119835857/d1ad8f32-05eb-4ffa-9de3-7550d4801d2a">
+
+#### (4) 다운로드를 받은 파일을 실행시켜 Applications로 드래그해주면 설치 완료
+<img width="446" alt="스크린샷 2023-08-07 오후 2 30 41" src="https://github.com/cdayeon/SpringBoot/assets/119835857/32fd8bfd-6519-42e2-ac68-362f31250c7d">
