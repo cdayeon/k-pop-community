@@ -45,5 +45,5 @@
 <img width="913" alt="스크린샷 2023-08-07 오후 3 06 23" src="https://github.com/cdayeon/SpringBoot/assets/119835857/9cabd23c-77dd-4aae-a7da-1bc6d8db7abd">
 
 12. IntelliJ를 실행하고 **Open** 클릭
-13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** open하기
-14. <img width="789" alt="스크린샷 2023-08-07 오후 3 08 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/059eb0d0-ff89-4f7c-b1c0-44a24b0f189e">
+13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** open하면 프로젝트 생성 완료
+<img width="789" alt="스크린샷 2023-08-07 오후 3 08 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/059eb0d0-ff89-4f7c-b1c0-44a24b0f189e">
