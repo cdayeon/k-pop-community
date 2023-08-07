@@ -40,10 +40,11 @@
 8. Dependencies는 내가 사용할 라이브러리를 추가할 수 있다.
 9. **ADD DEPENDENCIES** 를 클릭해여, **Spring Web** 과 **Thymeleaf**만 추가해주었다.
 10. 최종적으로 **GENERATE** 를 누르면 다운로드를 받게 된다.
-
-11. 데스크탑에 study라는 폴더를 만들어주었고, 해당 폴더로 다운로드 받은 압축파일을 옮겨 풀어주었다.
 <img width="913" alt="스크린샷 2023-08-07 오후 3 06 23" src="https://github.com/cdayeon/SpringBoot/assets/119835857/9cabd23c-77dd-4aae-a7da-1bc6d8db7abd">
 
+11. 데스크탑에 study라는 폴더를 만들어주었고, 해당 폴더로 다운로드 받은 압축파일을 옮겨 풀어주었다.
 12. IntelliJ를 실행하고 **Open** 클릭
-13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** open하면 프로젝트 생성 완료
 <img width="789" alt="스크린샷 2023-08-07 오후 3 08 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/059eb0d0-ff89-4f7c-b1c0-44a24b0f189e">
+
+13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** open하면 프로젝트 생성 완료
+
