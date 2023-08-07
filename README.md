@@ -46,5 +46,5 @@
 12. IntelliJ를 실행하고 **Open** 클릭
 <img width="789" alt="스크린샷 2023-08-07 오후 3 08 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/059eb0d0-ff89-4f7c-b1c0-44a24b0f189e">
 
-13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** open하면 프로젝트 생성 완료
+13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** 을 **open** 하면 프로젝트 생성 완료
 
