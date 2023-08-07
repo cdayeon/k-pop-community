@@ -28,15 +28,15 @@
 ------
 
 ## SpringBoot 프로젝트 생성 시작 
-### (1) https://start.spring.io 스프링 부트 스타터 사이트로 이동해서 스프링 프로젝트 생성
-### (2) spring Initializr 라는 사이트로 이동
+#### (1) https://start.spring.io 스프링 부트 스타터 사이트로 이동해서 스프링 프로젝트 생성
+#### (2) spring Initializr 라는 사이트로 이동
 <img width="1270" alt="스크린샷 2023-08-07 오후 2 49 24" src="https://github.com/cdayeon/SpringBoot/assets/119835857/4b6ecdde-bcc8-42eb-88de-419b699ee429">
 
-### (3) Project에서 **Gradle - Groovy** 선택 (현재 실무에서는 Maven에서 Gradle로 넘어오는 추세라고 한다.)
-### (4) Language는 **Java** 선택
-### (5) Spring Boot 버전은 2.7.14 버전 선택 (Java 11과 오류없이 연동하기 위해서는 2.x.x버전이 좋다. SNAPSHOT 또는 M1이라고 적혀있는 버전들은 사용하기에는 불안정하다.)
-### (6) Project Metadata에서 Group, Artifact, Packaging, Java만 변경해주었다. (보통 Group에는 기업 도메인명을 적어준다고 한다. Artifact 프로젝트명 이라고 생각하면 된다.)
-### (7) Packaging은 **Jar** 선택, Java는 **11** 선택
-### (8) Dependencies는 내가 사용할 라이브러리를 추가할 수 있다.
-### (9) **ADD DEPENDENCIES** 를 클릭해여, **Spring Web** 과 **Thymeleaf**만 추가해주었다.
-### (10) 최종적으로 **GENERATE** 를 누르면 다운로드를 받게 된다.
+#### (3) Project에서 **Gradle - Groovy** 선택 (현재 실무에서는 Maven에서 Gradle로 넘어오는 추세라고 한다.)
+#### (4) Language는 **Java** 선택
+#### (5) Spring Boot 버전은 2.7.14 버전 선택 (Java 11과 오류없이 연동하기 위해서는 2.x.x버전이 좋다. SNAPSHOT 또는 M1이라고 적혀있는 버전들은 사용하기에는 불안정하다.)
+#### (6) Project Metadata에서 Group, Artifact, Packaging, Java만 변경해주었다. (보통 Group에는 기업 도메인명을 적어준다고 한다. Artifact 프로젝트명 이라고 생각하면 된다.)
+#### (7) Packaging은 **Jar** 선택, Java는 **11** 선택
+#### (8) Dependencies는 내가 사용할 라이브러리를 추가할 수 있다.
+#### (9) **ADD DEPENDENCIES** 를 클릭해여, **Spring Web** 과 **Thymeleaf**만 추가해주었다.
+#### (10) 최종적으로 **GENERATE** 를 누르면 다운로드를 받게 된다.
