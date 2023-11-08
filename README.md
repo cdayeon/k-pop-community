@@ -1,13 +1,13 @@
 # SpringBoot 프로젝트 생성
 ### 사전 준비물
-* Java 11 설치 (Java 11이 Springframework의 프로젝트를 생성할 때도 오류없이 잘 작동한다.)
+* Java 17 또는 Java 11 설치 (필자는 Java17 설치)
 * IDE : IntelliJ 또는 Eclipse 설치 (실무에서 Eclipse는 많이 사용하지 않는 편, 필자는 IntelliJ 사용)
 ------
 ## IntilliJ 설치 (ver.mac)
 1. https://www.jetbrains.com/idea/ IntelliJ 사이트로 이동해서 다운로드 클릭
 <img width="1415" alt="스크린샷 2023-08-07 오후 2 20 10" src="https://github.com/cdayeon/SpringBoot/assets/119835857/ee14b06b-06e9-49ec-9a6b-eacdb1a1ac7e">
 
-2. Ultimate는 유료버전, Community Edition은 무료버전이다. (필자는 Ultimate 선택)
+2. Ultimate는 유료버전, Community Edition은 무료버전이다. (필자는 Ultimate 선택 -> 대학생 인증받아서 Ultimate이지만 무료로 사용중)
 3. 맥 인텔은 **.dmg(Intel)** 로, 맥 m1,m2는 **.dmg(Apple Silicon)** 으로 다운 (필자는 인텔이어서 .dmg(Intel)로 다운)
 <img width="1415" alt="스크린샷 2023-08-07 오후 2 22 04" src="https://github.com/cdayeon/SpringBoot/assets/119835857/d1ad8f32-05eb-4ffa-9de3-7550d4801d2a">
 
@@ -26,29 +26,6 @@
 8. 해당 화면이 뜨면 IntelliJ설치 완료
 <img width="593" alt="스크린샷 2023-08-07 오후 2 35 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/a0dcd130-be25-4d32-98c8-0689dc06bcc6">
 ------
-
-## SpringBoot 프로젝트 생성 시작 
-1. https://start.spring.io 스프링 부트 스타터 사이트로 이동해서 스프링 프로젝트 생성
-2. spring Initializr 라는 사이트로 이동
-<img width="1270" alt="스크린샷 2023-08-07 오후 2 49 24" src="https://github.com/cdayeon/SpringBoot/assets/119835857/4b6ecdde-bcc8-42eb-88de-419b699ee429">
-
-3. Project에서 **Gradle - Groovy** 선택 (현재 실무에서는 Maven에서 Gradle로 넘어오는 추세라고 한다.)
-4. Language는 **Java** 선택
-5. Spring Boot 버전은 2.7.14 버전 선택 (Java 11과 오류없이 연동하기 위해서는 2.x.x버전이 좋다. SNAPSHOT 또는 M1이라고 적혀있는 버전들은 사용하기에는 불안정하다.)
-6. Project Metadata에서 Group, Artifact, Packaging, Java만 변경해주었다. (보통 Group에는 기업 도메인명을 적어준다고 한다. Artifact 프로젝트명 이라고 생각하면 된다.)
-7. Packaging은 **Jar** 선택, Java는 **11** 선택
-8. Dependencies는 내가 사용할 라이브러리를 추가할 수 있다.
-9. **ADD DEPENDENCIES** 를 클릭해여, **Spring Web** 과 **Thymeleaf**만 추가해주었다.
-10. 최종적으로 **GENERATE** 를 누르면 다운로드를 받게 된다.
-<img width="913" alt="스크린샷 2023-08-07 오후 3 06 23" src="https://github.com/cdayeon/SpringBoot/assets/119835857/9cabd23c-77dd-4aae-a7da-1bc6d8db7abd">
-
-11. 데스크탑에 study라는 폴더를 만들어주었고, 해당 폴더로 다운로드 받은 압축파일을 옮겨 풀어주었다.
-12. IntelliJ를 실행하고 **Open** 클릭
-<img width="789" alt="스크린샷 2023-08-07 오후 3 08 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/059eb0d0-ff89-4f7c-b1c0-44a24b0f189e">
-
-13. **hello-spring** 폴더로 안으로 이동하여 **build.gradle** 을 **open** 하면 프로젝트 생성 완료
-------
-
 # SpringBoot 프로젝트 
 ## 2023. 08. 22 ~ 23 회의록
 ### 1. 개발 기획
