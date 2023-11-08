@@ -25,6 +25,7 @@
 
 8. 해당 화면이 뜨면 IntelliJ설치 완료
 <img width="593" alt="스크린샷 2023-08-07 오후 2 35 56" src="https://github.com/cdayeon/SpringBoot/assets/119835857/a0dcd130-be25-4d32-98c8-0689dc06bcc6">
+
 ------
 # SpringBoot 프로젝트 
 ## 2023. 08. 22 ~ 23 회의록
