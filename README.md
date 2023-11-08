@@ -73,8 +73,8 @@
 
 ### 3. 기술 스택
 #### * BackEnd
-* Java 11 or Java 17
-* Spring Boot 3
+* Java 17
+* Spring Boot 2.xx
 * Spring Security
 * JWT
 * Lombock
