@@ -1,4 +1,4 @@
-# SpringBoot 프로젝트 생성
+# SpringBoot 프로젝트 생성 방법
 ### 사전 준비물
 * Java 17 또는 Java 11 설치 (필자는 Java17 설치)
 * IDE : IntelliJ 또는 Eclipse 설치 (실무에서 Eclipse는 많이 사용하지 않는 편, 필자는 IntelliJ 사용)
